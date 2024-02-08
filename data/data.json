@@ -1,0 +1,34 @@
+{
+    "facturas": [
+        {
+            "id": 1,
+            "sabor":  "Medialuna Salada",
+            "sigla": "MS",
+            "descripcion": "Medialuna sin ningún agregado"
+        },
+        {
+            "id": 2,
+            "sabor":  "Medialuna Dulce",
+            "sigla": "MD",
+            "descripcion": "Medialuna con almibar"
+        },
+        {
+            "id": 3,
+            "sabor":  "Medialuna con Jamon y Queso",
+            "sigla": "JQ",
+            "descripcion": "Medialuna rellena de Jamon Natural y Queso Dambo"
+        },
+        {
+            "id": 4,
+            "sabor":  "Croissant Salado",
+            "sigla": "CS",
+            "descripcion": "Croissant sin ningún agregado"
+        },
+        {
+            "id": 5,
+            "sabor":  "Croissant con Jamon y Queso",
+            "sigla": "CJQ",
+            "descripcion": "Croissant rellena de Jamon Natural y Queso Dambo"
+        }
+    ]
+}
